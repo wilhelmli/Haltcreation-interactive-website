@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'Akzidenz-grotesk-black';
+   font-display: swap;
+   src: url('Akzidenz-grotesk-black/font.ttf');
+}
+@font-face {
+   font-family: 'Akzidenz-grotesk-bold';
+   font-display: swap;
+   src: url('Akzidenz-grotesk-bold/font.ttf');
+}
+@font-face {
+   font-family: 'Akzidenz-grotesk-light';
+   font-display: swap;
+   src: url('Akzidenz-grotesk-light/font.ttf');
+}
+@font-face {
+   font-family: 'digital-7 (mono italic)';
+   font-display: swap;
+   src: url('digital-7 (mono italic)/font.ttf');
+}
